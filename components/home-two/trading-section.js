@@ -36,7 +36,7 @@ export default function TradingSection() {
 							<h2>Safe, guaranteed, & easy to use to get started trading</h2>
 							<p>
 								It simplifies the process of buying and selling digital from anywhere in the world.
-								Available to citizens in the United States, Europe, & Australia.
+								Available in India.
 							</p>
 							<div className="fugu-icon-list fugu-icon-list3">
 								<ul>

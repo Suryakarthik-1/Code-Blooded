@@ -30,7 +30,7 @@ export default function TestimonialSliderTwo() {
 		<div className="section bg-warning-200 fugu-section-padding2">
 			<div className="container">
 				<div className="fugu-section-title">
-					<h2>1600+ traders admit that fugu is the best crypto</h2>
+					<h2>1600+ traders admit that Paisa Mate is the best Stock trading platform</h2>
 				</div>
 				<div className="fugu-testimonial-slider2">
 					<Slider {...settings}>

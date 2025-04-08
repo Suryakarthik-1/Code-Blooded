@@ -33,10 +33,10 @@ export default function TradingSectionTwo() {
 
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content">
-							<h2>Start your crypto trading with the most easy process</h2>
+							<h2>Start your Stock trading with the most easy process</h2>
 							<p>
 								It simplifies the process of buying and selling digital from anywhere in the world.
-								Available to citizens in the United States, Europe, & Australia.
+								Available in India.
 							</p>
 							<div className="fugu-accordion-wrap fugu-accordion-wrap2">
 								<div className="fugu-accordion-item">
