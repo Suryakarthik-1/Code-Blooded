@@ -7,16 +7,16 @@ export default function HomeTwoHeroSection() {
 			<div className="container">
 				<div className="fugu-hero-content fugu-hero-content2">
 					<h1 className="wow fadeInUpX" data-wow-delay="0s">
-						The leading platform for cryptocurrency traders
+						The leading platform for Stock Market traders
 					</h1>
 					<p className="wow fadeInUpX" data-wow-delay="0.25s">
-						We offer a full-fledged long-term rental platform to cryptocurrency users. It plans to use
-						blockchain technology to ensure a secure seamless rental experience.
+						We offer a full-fledged long-term rental platform to Stock Traders. It plans to use
+						to ensure a secure seamless rental experience.
 					</p>
 					<div className="fugu-hero-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">
-						<Link href="contact" legacyBehavior>
+						{/* <Link href="contact" legacyBehavior>
 							<a className="fugu-btn fugu-round-btn active">Get Started</a>
-						</Link>
+						</Link> */}
 
 						<Link href="contact" legacyBehavior>
 							<a className="fugu-btn fugu-round-btn">How to Buy & Sell</a>

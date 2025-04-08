@@ -13,10 +13,10 @@ export default function FooterHomeTwo() {
 							Ready for an innovative trading strategy? Let's start now!
 						</h2>
 						<p className="wow fadeInUpX" data-wow-delay="0.15s">
-							Get start now! And buy and sell cryptocurrency It simplifies the process of buying and
+							Get start now! And buy and sell Stocks It simplifies the process of buying and
 							selling digital from anywhere in the world.
 						</p>
-						<div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.25s">
+						{/* <div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.25s">
 							<Link href={"contact"} legacyBehavior>
 								<a className="fugu-app-btn">
 									<img src="/images/all-img/app-store.png" alt="" />
@@ -27,7 +27,7 @@ export default function FooterHomeTwo() {
 									<img src="/images/all-img/play-store.png" alt="" />
 								</a>
 							</Link>
-						</div>
+						</div> */}
 					</div>
 				</div>
 				<div className="fugu-footer-middle">
@@ -39,8 +39,8 @@ export default function FooterHomeTwo() {
 						</div>
 						<div className="col-xl-7 col-lg-8">
 							<div className="fugu-footer-menu2">
-								<ul>
-									<li>
+								<ul style={{display: "flex", flexDirection: "row", gap: "20px"}}>
+									{/* <li>
 										<Link href={"#"}> Demos </Link>
 									</li>
 									<li>
@@ -51,7 +51,7 @@ export default function FooterHomeTwo() {
 									</li>
 									<li>
 										<Link href={"#"}> Pages </Link>
-									</li>
+									</li> */}
 									<li>
 										<Link href={"#"}> Contact </Link>
 									</li>
@@ -62,7 +62,7 @@ export default function FooterHomeTwo() {
 							<Link href="mailto:name@email.com" legacyBehavior>
 								<a className="fugu-email">
 									<img src="/images/svg/eamil.svg" alt="" />
-									info@example.com
+									info@sample.com
 								</a>
 							</Link>
 						</div>
@@ -71,7 +71,7 @@ export default function FooterHomeTwo() {
 				<div className="fugu-footer-bottom">
 					<div className="row">
 						<div className="col-lg-6 col-md-8">
-							<p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+							<p>&copy; Copyright 2025, All Rights Reserved by Paisa Mate</p>
 						</div>
 						<div className="col-lg-6 col-md-4">
 							<div className="fugu-footer-menu">

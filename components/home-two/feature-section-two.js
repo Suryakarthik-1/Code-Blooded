@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-gray-800 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-white">
-					<h2>Everything you need for crypto trading is available</h2>
+					<h2>Everything you need for Stock trading is available</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-4 col-md-6">
