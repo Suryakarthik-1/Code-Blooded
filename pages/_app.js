@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
 		<>
 			<Head>
 				{/* common title */}
-				<title>fugu</title>
+				<title>PaisaMate</title>
 			</Head>
 			<Layout>
 				<Component {...pageProps} />
