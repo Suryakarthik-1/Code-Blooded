@@ -28,16 +28,15 @@ export default function WalletSection() {
 						</div>
 						<div className="col-xl-6">
 							<div className="fugu--default-content">
-								<h2>In the crypto world, we are secure & trustworthy</h2>
+								<h2>In the PaisaMate world, we stand for security and trust.</h2>
 								<p>
-									Fugu is one of the largest and safest platforms out there. The best crypto wallets
-									provide a good mix of security tools and user-facing features at a reasonable cost.
+									PaisaMate is one of the most reliable and user-friendly platforms for managing your money. The best fintech solutions combine strong security features with intuitive tools — all at an affordable cost.
 								</p>
 								<div className="fugu--meta">
 									<ul>
 										<li>
 											<img src="/images/svg2/check.svg" alt="" />
-											Cost-effective mode of transaction secure and private.
+											Take control with easy-to-use, self-managed financial tools.
 										</li>
 										<li>
 											<img src="/images/svg2/check.svg" alt="" />
@@ -73,7 +72,7 @@ export default function WalletSection() {
 						</div>
 						<div className="col-xl-6">
 							<div className="fugu--default-content">
-								<h2>Easy step to use Fugu wallet on any device</h2>
+								<h2>Easy step to use PaisaMate wallet on any device</h2>
 								<p>
 									While the concept is simple a place to store your crypto & use choosing Fugu crypto
 									wallet can be an incredibly experience.
@@ -83,21 +82,21 @@ export default function WalletSection() {
 										<Accordion.Item eventKey="0">
 											<Accordion.Header>Create your wallet</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
+												PaisaMate just like any other digital wallet, a crypto wallet helps users
 												store, send & receive easily
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="1">
 											<Accordion.Header>Link your bank account</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
+												PaisaMate just like any other digital wallet, a crypto wallet helps users
 												store, send & receive easily
 											</Accordion.Body>
 										</Accordion.Item>
 										<Accordion.Item eventKey="2">
 											<Accordion.Header>WStart buying & selling crypto</Accordion.Header>
 											<Accordion.Body>
-												Fugu just like any other digital wallet, a crypto wallet helps users
+												 just like any other digital wallet, a crypto wallet helps users
 												store, send & receive easily
 											</Accordion.Body>
 										</Accordion.Item>

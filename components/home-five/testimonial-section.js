@@ -9,9 +9,9 @@ export default function TestimonialSection() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Users around the world have a great experience with Fugu</h2>
+						<h2>Users around the world have a great experience with PaisaMate</h2>
 						<p>
-							Fugu is a place of trust for millions of people. Our customer reviews overall and is rated
+							PaisaMate is a place of trust for millions of people. Our customer reviews overall and is rated
 							just 4.5 out of 5 stars on Trustpilot. It is the right place for you.
 						</p>
 					</div>
@@ -40,7 +40,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“I found Fugu very professional and trustworthy during my crypto trading duration of
+									“I found PaisaMate very professional and trustworthy during my crypto trading duration of
 									147 days. They are very honest and trusted.”
 								</p>
 							</div>
@@ -78,7 +78,7 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“100% Trusted. Very legit in crypto world. So far I'm satisfied with Fugu. I just
+									“100% Trusted. Very legit in fintech world. So far I'm satisfied with PaisaMate. I just
 									wish this will continue at this way and there will be no sudden changes.”
 								</p>
 							</div>
@@ -155,7 +155,7 @@ export default function TestimonialSection() {
 							<div className="fugu--testimonial-data">
 								<p>
 									“Trustable ☺️ Best way to earn passive income. Everything was well explained and it
-									was easy to follow their clear. Very legit in crypto world.”
+									was easy to follow their clear. Very legit in fintech world.”
 								</p>
 							</div>
 							<div className="fugu--testimonial-author">
@@ -230,8 +230,8 @@ export default function TestimonialSection() {
 							</div>
 							<div className="fugu--testimonial-data">
 								<p>
-									“Best crypto scam investigator. It took less than 24h and gave all the details about
-									the scammer and guided me. My heartfull thanks 💗 ”
+									“Best money investigator. It took less than 24h and gave all the details about
+									and guided me. My heartfull thanks 💗 ”
 								</p>
 							</div>
 							<div className="fugu--testimonial-author">

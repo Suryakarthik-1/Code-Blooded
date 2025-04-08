@@ -7,10 +7,9 @@ export default function FeatureSection() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Innovative features to buy, trade and invest in crypto</h2>
+						<h2>Innovative features to buy, trade and invest in PaisaMate</h2>
 						<p>
-							A cryptocurrency is a digital & virtual currency that is secured by Fugu which makes it
-							nearly impossible to counterfeit or double-spend.
+						PaisaMate provides a secure digital environment for managing money, making it nearly impossible for transactions to be tampered with or repeated fraudulently.
 						</p>
 					</div>
 				</div>
@@ -42,8 +41,7 @@ export default function FeatureSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Safe and secure</h4>
 								<p>
-									Cryptocurrency is a digital currency using to secure transactions so there are
-									generally fewer safeguards.
+								PaisaMate uses technology to make transactions faster and safer — though security features can differ based on the provider.
 								</p>
 							</div>
 						</div>
