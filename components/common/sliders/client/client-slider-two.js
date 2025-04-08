@@ -40,7 +40,7 @@ export default function ClientSliderTwo() {
 		<div className="fugu-client-section">
 			<div className="container">
 				<div className="fugu-client-title">
-					<h5>TTrusted by 1600+ of the world's most popular companies</h5>
+					<h5>Trade in 1600+ of the world's most popular companies</h5>
 				</div>
 				<div className="fugu-client-slider2">
 					<Slider {...settting}>

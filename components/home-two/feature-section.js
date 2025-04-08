@@ -28,7 +28,7 @@ export default function FeatureSection() {
                   className="fugu-hero-btn-wrap wow fadeInUpX"
                   data-wow-delay="0.40s"
                 >
-                  <a className="fugu-btn fugu-round-btn" href="/">
+                  <a className="fugu-btn fugu-round-btn" href="basket">
                     Buy Baskets
                   </a>
                 </div>

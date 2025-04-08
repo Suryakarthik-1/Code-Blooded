@@ -18,25 +18,23 @@ export default function FaqSection() {
 					<div className="col-lg-6 offset-lg-1">
 						<div className="fugu-accordion-wrap">
 							<div className="fugu-accordion-item">
-								<h4>Is it safe to use crypto app?</h4>
+								<h4>Is it safe to use Paisa Mate app?</h4>
 								<p>
-									There are many variations of passages of Lorem Ipsum available, but the majority
-									have suffered alteration in some form, by injected humour of this.
+									Yes, it is safe to use Paisa Mate app. We are a registered company and we are
+									regulated by the Securities and Exchange Board of India (SEBI).
 								</p>
 							</div>
 							<div className="fugu-accordion-item">
 								<h4>Do you provide any moneyback guarantee?</h4>
 								<p>
-									Once you've approved a connection request from the app the fugu can to send
-									transaction requests to wallet, which is the on your must also have manually approve
-									in the Wallet easily provided.
+									Yes, we provide a moneyback guarantee. If you are not satisfied with the service, you can
+									contact us and we will refund your money.
 								</p>
 							</div>
 							<div className="fugu-accordion-item">
-								<h4>How long do you provide supports plugins?</h4>
+								<h4>How long do you provide supports?</h4>
 								<p>
-									It has survived not only five centuries, but also the leap into electronic for the
-									support do you want typesetting, remaining essentially unchanged.
+									We provide support for 24 hours a day, 7 days a week. You can contact us anytime.
 								</p>
 							</div>
 						</div>
