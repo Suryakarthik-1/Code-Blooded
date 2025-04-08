@@ -4,7 +4,6 @@ import { useState } from "react";
 import {
 	BlogDropdownMenus,
 	ContactDropdownMenus,
-	DemoDropdownMenus,
 	ElementsMegaMenu,
 	PagesDropdownMenus,
 } from "../navbar/menu-data";
@@ -55,7 +54,6 @@ export default function HeaderHomeFive() {
               </div>
 
               <Navbar>
-                <NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
                 <NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
                 <NavItem
                   navItemText="Elements"
@@ -63,10 +61,7 @@ export default function HeaderHomeFive() {
                   megaMenu
                 />
                 <NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
-                <NavItem
-                  navItemText="Contact Us"
-                  menuItems={ContactDropdownMenus}
-                />
+                <a href="contact" style={{color: 'white', fontSize: '16px', fontWeight: 'bold'}}>Contact Us</a>
               </Navbar>
             </nav>
           </div>

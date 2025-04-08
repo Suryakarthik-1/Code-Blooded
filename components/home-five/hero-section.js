@@ -12,22 +12,22 @@ export default function HeroSection() {
           <div className="col-lg-7">
             <div className="fugu--hero-content fugu--hero-content3">
               <h1 className="wow fadeInUpX" data-wow-delay="0s">
-                New-gen of digital currency
+              Where Digital Meets Finance
               </h1>
               <p className="wow fadeInUpX" data-wow-delay="0.15s">
-                Get started with one of the easiest and most secure platforms
-                for buying, selling, trading, and earning cryptocurrency in one
-                place.
+              Step into the future of finance — simple, smart, and in your hands.
+              Learn smart, save smarter, and grow your money with confidence.
               </p>
               <div
                 className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX"
                 data-wow-delay="0.25s"
               >
                 <Link href="http://localhost:3000/index-two" legacyBehavior>
-                  <a className="fugu--btn bg-blue active">Get Started</a>
+                  <a className="fugu--btn bg-blue active">Signup</a>
                 </Link>
+                
                 <Link href="http://localhost:3000/index-two" legacyBehavior>
-                  <a className="fugu--btn bg-blue">Discover More</a>
+                  <a className="fugu--btn bg-blue">Login</a>
                 </Link>
               </div>
             </div>

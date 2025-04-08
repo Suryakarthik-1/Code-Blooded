@@ -7,10 +7,9 @@ export default function FaqAccordionTwo() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content">
-						<h2>Do you have any questions about cryptocurrency? Ask us</h2>
+						<h2>Do you have any questions about Fintech? Ask us</h2>
 						<p>
-							Frequently asked questions qbout cryptocurrency & blockchain technology. Cryptographic
-							security for conducting trusted transactions.
+						Fintech uses advanced digital tools to ensure secure, seamless, and trusted financial transactions — from payments to personal finance.
 						</p>
 					</div>
 				</div>
@@ -19,10 +18,9 @@ export default function FaqAccordionTwo() {
 						<div className="col-lg-6">
 							<Accordion defaultActiveKey="0">
 								<Accordion.Item eventKey="0">
-									<Accordion.Header>Q. What is cryptocurrency in general?</Accordion.Header>
+									<Accordion.Header>Q. What is fintech?</Accordion.Header>
 									<Accordion.Body>
-										A cryptocurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Fintech, short for financial technology, refers to the use of innovative digital tools and software to improve, automate, and simplify financial services — including banking, saving, investing, and payments.
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="1">
@@ -35,10 +33,9 @@ export default function FaqAccordionTwo() {
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
-									<Accordion.Header>Q. What’s the connection between NFTs & crypto?</Accordion.Header>
+									<Accordion.Header>Q. How are different fintech services connected?</Accordion.Header>
 									<Accordion.Body>
-										A cryptocurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									Fintech services like digital wallets, budgeting apps, online banking, and investment platforms are all connected through the goal of making financial tasks easier, faster, and more accessible.
 									</Accordion.Body>
 								</Accordion.Item>
 							</Accordion>
@@ -62,10 +59,11 @@ export default function FaqAccordionTwo() {
 									</Accordion.Body>
 								</Accordion.Item>
 								<Accordion.Item eventKey="2">
-									<Accordion.Header>What’s the connection between NFTs & crypto?</Accordion.Header>
+									<Accordion.Header>What are the PaisaMate services?</Accordion.Header>
 									<Accordion.Body>
-										A cryptocurrency is a digital currency, which is an alternative form of payment
-										created using encryption algorithms.
+									They often integrate with each other to create a seamless money management experience — from tracking spending to saving automatically and investing wisely.
+
+
 									</Accordion.Body>
 								</Accordion.Item>
 							</Accordion>

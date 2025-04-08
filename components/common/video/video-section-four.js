@@ -29,15 +29,14 @@ export default function VideoSectionFour() {
 					</div>
 					<div className="col-xl-6 d-flex align-items-center">
 						<div className="fugu--default-content">
-							<h2>Fugu is the most trusted cryptocurrency platform</h2>
+							<h2>PaisaMate is one of the most trusted digital finance platforms.</h2>
 							<p>
-								Fugu Cryptocurrency exchanges are websites where individuals can buy, sell, or exchange
-								crypto-currencies other digital currency here a Fugu is a cryptocurrency markets have
-								crashed in the last 24 hours.
+							Our platform helps bridge the gap between traditional finance and modern digital tools, empowering users to make smarter financial decisions every day.
+
+
 							</p>
 							<p>
-								The exchanges can converte a crypto-currencies into major part of a government-backed
-								currencies and convert cryptocurrencies.
+							Our platform simplifies financial transactions by allowing users to send, receive, and manage funds digitally, with a strong focus on privacy, convenience, and control
 							</p>
 							<div className="fugu--btn-wrap">
 								<Link href={"#"} legacyBehavior>
