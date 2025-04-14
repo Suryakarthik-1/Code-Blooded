@@ -30,15 +30,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/basket": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/basket.js"
+    ],
     "/index-two": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/index-two.js"
     ],
-    "/stock": [
+    "/risk-free": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/stock.js"
+      "static/chunks/pages/risk-free.js"
     ]
   },
   "ampFirstPages": []

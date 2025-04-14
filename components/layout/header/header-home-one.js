@@ -29,7 +29,7 @@ export default function HeaderHomeOne() {
 			<div className="container-fluid">
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
-						<Link href={"/"}>
+						<Link href={"/index-two"}>
 							<img src="/images/logo/logo-black.svg" alt="logo" className="light-version-logo" />
 						</Link>
 					</div>
@@ -45,18 +45,18 @@ export default function HeaderHomeOne() {
 								</div>
 							</div>
 
-							<Navbar>
+							{/* <Navbar>
 								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
-							</Navbar>
+							</Navbar> */}
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu-btn fugu-header-btn" href="contact.html">
-							Get Started
+						<a className="fugu-btn fugu-header-btn" href="SmartSavings">
+							Your Wallet
 						</a>
 					</div>
 

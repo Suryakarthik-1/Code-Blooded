@@ -22,11 +22,11 @@ export default function HeroSection() {
                 className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX"
                 data-wow-delay="0.25s"
               >
-                <Link href="http://localhost:3000/index-two" legacyBehavior>
+                <Link href="login" legacyBehavior>
                   <a className="fugu--btn bg-blue active">Signup</a>
                 </Link>
                 
-                <Link href="http://localhost:3000/index-two" legacyBehavior>
+                <Link href="login" legacyBehavior>
                   <a className="fugu--btn bg-blue">Login</a>
                 </Link>
               </div>

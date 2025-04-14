@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/stock": "pages/stock.js",
-  "/index-two": "pages/index-two.js",
-  "/404": "pages/404.js"
+  "/basket": "pages/basket.js",
+  "/404": "pages/404.js",
+  "/risk-free": "pages/risk-free.js",
+  "/index-two": "pages/index-two.js"
 }

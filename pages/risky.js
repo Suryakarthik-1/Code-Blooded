@@ -10,7 +10,7 @@ export default function SingleService() {
     <>
       <BreadcrumbSection />
       {/* <VideoSectionSix /> */}
-      <FeatureSection />
+      <FeatureSection />  
       <ChartSection />
       {/* <TeamSection /> */}
       <ClientSliderTwo />
